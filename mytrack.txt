@@ -1,2 +1,0 @@
-On 11/02/2022 working on Login Functionality
-on 15/02/2022 Tested in Dev Environment
